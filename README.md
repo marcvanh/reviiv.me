@@ -1,3 +1,15 @@
+## MVH - How I made this
+```shell
+git clone https://github.com/emilbaehr/automatic-app-landing-page.git reviiv.me-website
+cd reviiv.me-website
+rm -rf .git
+git init
+# create repo on github and follow instructions to add origin etc and first push
+```
+
+
+
+# ORIGINAL README.md BELOW
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
