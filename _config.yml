@@ -57,7 +57,7 @@ features                                  :
 
   - title                                 : Based on Research & Trials by Long Covid Experts
     description                           : Special thanks to the Post-Covid Care team at Mt. Sinai for their leading post-viral work.
-    fontawesome_icon_name                 : clinic-medical
+    fontawesome_icon_name                 : microscope
 
   - title                                 : Only $1.99 for a Limited Time!
     description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS and Android.
@@ -65,7 +65,7 @@ features                                  :
 
   - title                                 : 10% of Proceeds go to Long Covid Research!
     description                           : Help find a cure for Long Covid with 10% of proceed going to support Long Covid research!
-    fontawesome_icon_name                 : microscope
+    fontawesome_icon_name                 : link
 
   - title                                 : 
     description                           : 
