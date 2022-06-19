@@ -35,40 +35,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Breathing Therapy for Rapid ‘Long Covid’ Relief
+    description                           : For Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath, Often Starting in 24hrs!
     fontawesome_icon_name                 : magic
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Includes Daily Guided Exercises & Weekly Tests
+    description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your CO2/Oxygen balance and breathing quality.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Track Your Progress, See the Improvement!
+    description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Auto-Intensity & Advanced Controls
+    description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Includes Additional Long Covid Resources
+    description                           : ReViiV includes detailed guides and additional Long Covid information and tips to ensure optimum results.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Based on Research & Trials by Long Covid Experts
+    description                           : Special thanks to the Post-Covid Care team at Mt. Sinai for their world-  leading post-viral work.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Only $1.99 for a Limited Time
+    description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS and Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 10% of Proceeds go to support Long Covid Research
+    description                           : Help find a cure for Long Covid with 10% of proceed going to support Long Covid research!
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 
+    description                           : 
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
