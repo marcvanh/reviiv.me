@@ -4,7 +4,10 @@ git clone https://github.com/emilbaehr/automatic-app-landing-page.git reviiv.me-
 cd reviiv.me-website
 rm -rf .git
 git init
-# create repo on github and follow instructions to add origin etc and first push
+# next: create repo on github, then:
+git remote set-url origin git@github.com:marcvanh/reviiv.me.git
+git push
+# next, go here and set up the site: https://github.com/marcvanh/reviiv.me/settings/pages
 ```
 
 
