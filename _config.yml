@@ -41,7 +41,7 @@ features                                  :
 
   - title                                 : Includes Daily Guided Exercises & Weekly Tests
     description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your CO2/Oxygen balance and breathing quality.
-    fontawesome_icon_name                 : calendar-weak
+    fontawesome_icon_name                 : calendar-week
 
   - title                                 : Track Your Progress, See the Improvement!
     description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Auto-Intensity & Advanced Controls
     description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
-    fontawesome_icon_name                 : abacus
+    fontawesome_icon_name                 : calculator-alt
 
   - title                                 : Includes Additional Long Covid Resources
     description                           : ReViiV includes detailed guides and additional Long Covid information and tips to ensure optimum results.
@@ -57,7 +57,7 @@ features                                  :
 
   - title                                 : Based on Research & Trials by Long Covid Experts
     description                           : Special thanks to the Post-Covid Care team at Mt. Sinai for their world-  leading post-viral work.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : user-md
 
   - title                                 : Only $1.99 for a Limited Time
     description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS and Android.
