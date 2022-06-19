@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Auto-Intensity & Advanced Controls
     description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
-    fontawesome_icon_name                 : abacus
+    fontawesome_icon_name                 : calculator
 
   - title                                 : Includes Additional Long Covid Resources
     description                           : ReViiV includes detailed guides and additional Long Covid information and tips to ensure optimum results.
