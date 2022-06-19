@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Breathing Therapy for Long Covid Relief & Recovery.
+app_description                           : Breathing Therapy for Post-Viral Relief & Recovery.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Breathing Therapy for Rapid ‘Long Covid’ Relief
+  - title                                 : Breathing Therapy for Rapid Post-Viral Relief
     description                           : For Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath, etc.  Results often in days!
     fontawesome_icon_name                 : user-md
 
@@ -55,7 +55,7 @@ features                                  :
     description                           : ReViiV includes detailed guides and additional Long Covid information and tips to ensure optimum results.
     fontawesome_icon_name                 : toolbox
 
-  - title                                 : Based on Research & Trials by Long Covid Experts
+  - title                                 : Based on Research & Trials by Post-Viral Experts
     description                           : Special thanks to the Post-Covid Care team at Mt. Sinai for their leading post-viral work.
     fontawesome_icon_name                 : microscope
 
@@ -63,8 +63,8 @@ features                                  :
     description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS and Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : 10% of Proceeds go to Long Covid Research!
-    description                           : Help find a cure for Long Covid with 10% of proceed going to support Long Covid research!
+  - title                                 : 10% of Proceeds go to Post-Viral Research!
+    description                           : Help find a cure with 10% of proceed going to support post-viral research!
     fontawesome_icon_name                 : link
 
   - title                                 : 
