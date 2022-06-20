@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Breathing Therapy for Post-Viral Relief & Recovery.
+app_description                           : Post-Viral Relief & Recovery
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : 10% of Proceeds go to Post-Viral Research!
-    description                           : Help find a cure with 10% of proceed going to support post-viral research!
+    description                           : Help find a cure with 10% of proceeds going to support post-viral research!
     fontawesome_icon_name                 : link
 
   - title                                 : 
