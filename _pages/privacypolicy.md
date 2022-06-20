@@ -15,11 +15,9 @@ June 14, 2022
 
 This privacy policy governs your use of the ReViiV mobile application, or any in-application upgrades & Reviiv.me and/or Marysoft.com websites as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Application”) for mobile devices that was created by MartySoft, LLC (“MarySoft”). (&quot;MarySoft&quot;).
 
-CAUTION:  THIS APPLICATION IS INTENDED FOR USERS WHO ARE AT LEAST 13 YEARS OLD AND NOT FOR PERSONS WHO HAVE AN ACTIVE VIRAL INFECTION.  PERSONS UNDER THE AGE OF 13 ARE NOT PERMITTED TO USE THE APPLICATION. THIS APPLICATION EDUCATES USERS TO PERFORM A BREATHING THERAPY, WHICH INCLUDES DAILY EXCERSIZES AND WEEKLY PERFORMANCE TESTS.  ACTUAL RESULTS FROM THE BREATHING THERAPY MAY VARY FROM PERSON TO PERSON AND DEPEND ON A NUMBER OF ADDITIONAL FACTORS.  .
+CAUTION:  THIS APPLICATION IS INTENDED FOR USERS WHO ARE AT LEAST 13 YEARS OLD.  PERSONS UNDER THE AGE OF 13 ARE NOT PERMITTED TO USE THE APPLICATION. THIS APPLICATION IS DESIGNED FOR POST-VIRAL RECOVERY AND IS NOT INDENTED FOR USE BY PERSONS WITH ACTIVE VIRAL INFECTION.  IF YOUR SYMPTOMS ARE SEVERE AND/OR DO NOT IMPROVE, PLEASE CONSULT YOUR DOCTOR, OR CALL 911 IMMEDIATELY.  THIS APPLICATION EDUCATES USERS TO PERFORM A BREATHING THERAPY, WHICH INCLUDES DAILY EXCERSIZES AND WEEKLY PERFORMANCE TESTS.  ACTUAL RESULTS FROM THE BREATHING THERAPY MAY VARY FROM PERSON TO PERSON AND DEPEND ON A NUMBER OF ADDITIONAL FACTORS.
 
 ANY INFORMATION PROVIDED OR CONTAINED WITHIN OR FROM THIS APPLICATION SHALL NOT BE CONSIDERED “ADVICE” AND SHOULD NOT BE CONSTRUED AS TECHNICAL, LEGAL, MEDICAL, OR PERFORMANCE ADVICE ON ANY SUBJECT MATTER.   MARTYSOFT DISCLAIMS ALL LIABILITY IN REGARD TO ACTIONS TAKEN OR NOT TAKEN BASED ON ANY OR ALL OF THE CONTENTS ON THE APPLICATION. PLEASE NOTE THAT MARTYSOFT DOES NOT NECESSARILY ENDORSE, AND IS NOT RESPONSIBLE FOR, ANY THIRD-PARTY CONTENT THAT MAY BE DISPLAYED OR ACCESSED THROUGH THIS APPLICATION.
-
-NOTE:  THIS APPLICATION IS DESIGNED FOR POST-VIRAL RECOVERY AND IS NOT INDENTED FOR USE BY PERSONS WITH ACTIVE VIRAL INFECTION.   IF YOUR SYMPTOMS ARE SEVERE AND/OR DO NOT IMPROVE, PLEASE CONSULT YOUR DOCTOR, OR CALL 911 IMMEDIATELY.
 
 
 #### What information does the Application obtain and how is it used?
@@ -54,7 +52,7 @@ We do not collect or retain any User Provided data.
 
 #### Children
 
-The Application is intended for users who are at least 13 years old.  Persons under the age of 13 are not permitted to register for or use the Application.   We do market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at info@reviiv.me.
+The Application is intended for users who are at least 13 years old.  Persons under the age of 13 are not permitted to register for or use the Application.   We do market to children under the age of 13. 
 
 #### Security
 
@@ -62,7 +60,7 @@ We do not collect or retain any personal data.
 
 #### Changes
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy within the Application and on the Reviiv.me website informing you as possible. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy on the ReViiV.me website.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on the Reviiv.me website informing you as possible. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy on the Reviiv.me website.
 
 #### Your Consent
 
