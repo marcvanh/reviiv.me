@@ -56,14 +56,14 @@ features                                  :
     fontawesome_icon_name                 : toolbox
 
   - title                                 : Based on Research & Trials by Post-Viral Experts
-    description                           : Special thanks to the Post-Covid Care team at Mt. Sinai for their leading post-viral work.
+    description                           : Special thanks to the pilot-test patients & the Post-Covid Care team at Mt. Sinai for their leading post-viral work.
     fontawesome_icon_name                 : microscope
 
   - title                                 : Only $1.99 for a Limited Time!
-    description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS and Android.
+    description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS & Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : 10% of Proceeds go to Post-Viral Research!
+  - title                                 : 10% of Proceeds Go to Post-Viral Research!
     description                           : Help find a cure with 10% of proceeds going to support post-viral research!
     fontawesome_icon_name                 : link
 
