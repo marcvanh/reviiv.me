@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Therapy for Post-Viral Relief & Recovery
+app_description                           : Therapy for Long Covid Relief - Created by a Long Covid Patient!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,12 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Breathing Therapy for Rapid Post-Viral Relief
-    description                           : For Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath, etc.  Results often in days!
+  - title                                 : Therapy for Rapid Long Covid Relief
+    description                           : May help with Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more.  Results often in days!
     fontawesome_icon_name                 : user-md
 
   - title                                 : Includes Daily Guided Exercises & Weekly Tests
-    description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your CO2/Oxygen balance and breathing quality.
+    description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & capacity.
     fontawesome_icon_name                 : calendar-week
 
   - title                                 : Track Your Progress, See the Improvement!
@@ -55,21 +55,21 @@ features                                  :
     description                           : ReViiV includes detailed guides and additional Long Covid information and tips to ensure optimum results.
     fontawesome_icon_name                 : toolbox
 
-  - title                                 : Based on Research & Trials by Post-Viral Experts
-    description                           : Special thanks to the pilot-test patients & the Post-Covid Care team at Mt. Sinai for their leading post-viral work.
+  - title                                 : Based on Research & Trials by Long Covid Experts
+    description                           : Special thanks to our test patients & the Post-Covid Care team at Mt. Sinai for their leading post-viral work.
     fontawesome_icon_name                 : microscope
 
-  - title                                 : Only $1.99 for a Limited Time!
-    description                           : ReViiV is 33% off its regular price to celebrate its global launch!  Available now on iOS & Android.
+  - title                                 : Only $.99 for a Limited Time!
+    description                           : ReViiV is 66% off its regular price to celebrate its global launch!  Available now on iOS & Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : 10% of Proceeds Go to Post-Viral Research!
+  - title                                 : 10% of Proceeds Go to Long Covid Research!
     description                           : Help find a cure with 10% of proceeds going to support post-viral research!
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : 
     description                           : 
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : 
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
