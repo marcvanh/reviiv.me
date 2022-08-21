@@ -4,42 +4,68 @@ title: FAQ
 include_in_header: true
 ---
 
-**ReViiV  -  FAQ**
+**Last updated**  
+June 14, 2022
 
-**What is ReViiV?**
+## Mobile Application Privacy Policy
 
-ReViiV is a guided breathing therapy designed to relieve common Post-Covid or “Long Covid” symptoms by changing breathing patterns and gradually rehabilitate breathing quality.
+###  &quot;REVIIV&quot; Mobile Application
 
-**What Long Covid Symptoms may ReViiV relieve?**
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY**
 
-In pilot testing, ReViiV has shown it can alleviate many common symptoms, including fatigue, loss of taste/smell, shortness of breath, brain fog and more.  Individual results may vary.
+This privacy policy governs your use of the ReViiV mobile application, or any in-application upgrades & Reviiv.me and/or Marysoft.com websites as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Application”) for mobile devices that was created by MartySoft, LLC (“MarySoft”). (&quot;MarySoft&quot;).
 
-**How quickly does ReviiV begin to work?**
+CAUTION:  THIS APPLICATION IS INTENDED FOR USERS WHO ARE AT LEAST 13 YEARS OLD.  PERSONS UNDER THE AGE OF 13 ARE NOT PERMITTED TO USE THE APPLICATION. THIS APPLICATION IS DESIGNED FOR POST-VIRAL RECOVERY AND IS NOT INDENTED FOR USE BY PERSONS WITH ACTIVE VIRAL INFECTION.  IF YOUR SYMPTOMS ARE SEVERE AND/OR DO NOT IMPROVE, PLEASE CONSULT YOUR DOCTOR, OR CALL 911 IMMEDIATELY.  THIS APPLICATION EDUCATES USERS TO PERFORM A BREATHING THERAPY, WHICH INCLUDES DAILY EXCERSIZES AND WEEKLY PERFORMANCE TESTS.  ACTUAL RESULTS FROM THE BREATHING THERAPY MAY VARY FROM PERSON TO PERSON AND DEPEND ON A NUMBER OF ADDITIONAL FACTORS.
 
-ReViiV may begin to relieve common symptoms within days and often starting within 24 hours.  Some symptoms such as Brain Fog required a week of use before.  Nearly all pilot test patients reported positive results within a week of beginning the ReViiV therapy.
-
-**Who are the developers of ReViiV?**
-
-ReViiV was created by a Long Covid patient along with his two brothers.  Additional inputs were received from breathing coaches as well as Long Covid patients, doctors & experts, and many other talented contributors.
-
-**What do I need to do the ReViiV therapy?**
-
-All you need for the ReViiV therapy is the App and an Android or Apple smartphone or tablet.  
-
-**What is the science behind ReViiV?**
-
-Long Covid researchers have found that Covid-19 can impact the auto-immune system and reduce breathing quality, leading to an ongoing imbalance of CO2 in the body [Mt Sinai Hospital, 2022].  By introducing a breathing therapy to correct this imbalance, “after a week, everyone in the pilot program reported improvement in symptoms” [“[Understanding Long Covid](https://www.theatlantic.com/newsletters/archive/2021/03/atlantic-daily-understanding-long-covid/618232/)”, Caroline Mimbs Nyce, The Atlantic, 2021].   Quickly correcting this C02 imbalance while gradually improving breathing quality may help relieve many Long Covid symptoms [John Hopkins University, 2021] and is the foundation of the ReViiV therapy.
-
-Additionally, researchers from 6 leading Canadian hospitals have recently found that Covid-19 can impact the small capillaries, often within the upper lungs. [<https://doi.org/10.1148/radiol.220492>, 6/2022].   By breathing fully through your nose instead of your mouth, you can increase the oxygen going to the lower, healthier portion of the lungs.  
+ANY INFORMATION PROVIDED OR CONTAINED WITHIN OR FROM THIS APPLICATION SHALL NOT BE CONSIDERED “ADVICE” AND SHOULD NOT BE CONSTRUED AS TECHNICAL, LEGAL, MEDICAL, OR PERFORMANCE ADVICE ON ANY SUBJECT MATTER.   MARTYSOFT DISCLAIMS ALL LIABILITY IN REGARD TO ACTIONS TAKEN OR NOT TAKEN BASED ON ANY OR ALL OF THE CONTENTS ON THE APPLICATION. PLEASE NOTE THAT MARTYSOFT DOES NOT NECESSARILY ENDORSE, AND IS NOT RESPONSIBLE FOR, ANY THIRD-PARTY CONTENT THAT MAY BE DISPLAYED OR ACCESSED THROUGH THIS APPLICATION.
 
 
-**Where can I get ReViiV?**
+#### What information does the Application obtain and how is it used?
 
-ReViiV is now available globally for persons 12+.  Go to [ReViiV.me](https://reviiv.me) or search your App Store for ‘ReViiV’.  
+#### A. User Provided Information
 
+The Application obtains the information you provide when you download the Application. There is no user registration for the Application.
 
-**What is the cost of ReViiV?**
+**B. Automatically Collected Information**
 
-ReViiV is available for just $.99 for a limited time.  No subscription required.
+The Application does not collect any information.  The program automatically advances to the next session once a user completes a session.
 
+#### Does the Application collect precise real time location information of the device?
 
+No.
+
+#### Do third parties see and/or have access to information obtained by the Application?
+
+No.
+
+#### Automatic Data Collection and Advertising
+
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage.
+
+#### What are my opt-out rights?
+
+No personal information is collected, and a user can delete any information used by the Application simply by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+#### Data Retention Policy, Managing Your Information
+
+We do not collect or retain any User Provided data.
+
+#### Children
+
+The Application is intended for users who are at least 13 years old.  Persons under the age of 13 are not permitted to register for or use the Application.   We do market to children under the age of 13.
+
+#### Security
+
+We do not collect or retain any personal data.
+
+#### Changes
+
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on the Reviiv.me website informing you as possible. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy on the Reviiv.me website.
+
+#### Your Consent
+
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using a computer/handheld device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining, and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed, and stored there under United States privacy standards.
+
+#### Contact us
+
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at info@Reviiv.me.
