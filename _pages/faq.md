@@ -14,7 +14,7 @@ ReViiV is a guided breathing therapy designed to relieve common Post-Covid or â€
 
 In pilot testing, ReViiV has shown it can alleviate many common symptoms, including fatigue, loss of taste/smell, shortness of breath, brain fog and more.  Individual results may vary.
 
-**How quickly does ReviiV begin to work?**
+**How quickly does ReViiV begin to work?**
 
 ReViiV may begin to relieve common symptoms within days and often starting within 24 hours.  Some symptoms such as Brain Fog required a week of use before.  Nearly all pilot test patients reported positive results within a week of beginning the ReViiV therapy.
 
