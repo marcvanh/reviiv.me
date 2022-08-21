@@ -4,62 +4,42 @@ title: FAQ
 include_in_header: false
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+**ReViiV  -  FAQ**
 
-<br>
+**What is ReViiV?**
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+ReViiV is a guided breathing therapy designed to relieve common Post-Covid or “Long Covid” symptoms by changing breathing patterns and gradually rehabilitate breathing quality.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+**What Long Covid Symptoms may ReViiV relieve?**
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+In pilot testing, ReViiV has shown it can alleviate many common symptoms, including fatigue, loss of taste/smell, shortness of breath, brain fog and more.  Individual results may vary.
 
-<br>
+**How quickly does ReviiV begin to work?**
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+ReViiV may begin to relieve common symptoms within days and often starting within 24 hours.  Some symptoms such as Brain Fog required a week of use before.  Nearly all pilot test patients reported positive results within a week of beginning the ReViiV therapy.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+**Who are the developers of ReViiV?**
 
-<br>
+ReViiV was created by a Long Covid patient along with his two brothers.  Additional inputs were received from breathing coaches as well as Long Covid patients, doctors & experts, and many other talented contributors.
 
-________
-<br>
+**What do I need to do the ReViiV therapy?**
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+All you need for the ReViiV therapy is the App and an Android or Apple smartphone or tablet.
 
-<br>
+**What is the science behind ReViiV?**
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+Long Covid researchers have found that Covid-19 can impact the auto-immune system and reduce breathing quality, leading to an ongoing imbalance of CO2 in the body [Mt Sinai Hospital, 2022].  By introducing a breathing therapy to correct this imbalance, “after a week, everyone in the pilot program reported improvement in symptoms” [“[Understanding Long Covid](https://www.theatlantic.com/newsletters/archive/2021/03/atlantic-daily-understanding-long-covid/618232/)”, Caroline Mimbs Nyce, The Atlantic, 2021].   Quickly correcting this C02 imbalance while gradually improving breathing quality may help relieve many Long Covid symptoms [John Hopkins University, 2021] and is the foundation of the ReViiV therapy.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+Additionally, researchers from 6 leading Canadian hospitals have recently found that Covid-19 can impact the small capillaries, often within the upper lungs. [<https://doi.org/10.1148/radiol.220492>, 6/2022].   By breathing fully through your nose instead of your mouth, you can increase the oxygen going to the lower, healthier portion of the lungs.
 
-<br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+**Where can I get ReViiV?**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+ReViiV is now available globally for persons 12+.  Go to [ReViiV.me](https://reviiv.me) or search your App Store for ‘ReViiV’.
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+
+**What is the cost of ReViiV?**
+
+ReViiV is available for just $.99 for a limited time.  No subscription required.
 
 <br>
