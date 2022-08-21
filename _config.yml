@@ -42,6 +42,10 @@ features                                  :
   - title                                 : Includes Daily Guided Exercises & Weekly Tests
     description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & capacity.
     fontawesome_icon_name                 : calendar-week
+    
+  - title                                 : Includes Daily Guided Exercises & Weekly Tests
+    description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & capacity.
+    fontawesome_icon_name                 : calendar-week
 
   - title                                 : Track Your Progress, See the Improvement!
     description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
