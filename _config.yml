@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Includes Additional Long Covid Resources
     description                           : ReViiV includes detailed guides and additional Long Covid information and tips to ensure optimum results.
-    fontawesome_icon_name                 : message-medical
+    fontawesome_icon_name                 : briefcase-medical
 
   - title                                 : Based on Research & Trials by Long Covid Experts
     description                           : Special thanks to our test patients & the Post-Covid care team at Mt. Sinai Hospital for their leading Long Covid work.
