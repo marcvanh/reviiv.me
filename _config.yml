@@ -51,7 +51,11 @@ features                                  :
     description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
     fontawesome_icon_name                 : calculator
 
-  - title                                 : Based on Research & Trials by Long Covid Experts
+  - title                                 : Limited Time, Intro Price!
+    description                           : ReViiV is over 60% off its regular price to celebrate its global launch!  Download now on iOS & Android.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+    title                                 : Based on Research & Trials by Long Covid Experts
     description                           : Special thanks to our test patients & the Post-Covid care team at Mt. Sinai Hospital for their leading Long Covid work.
     fontawesome_icon_name                 : microscope
 
