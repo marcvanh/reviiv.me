@@ -6,10 +6,6 @@ include_in_header: true
 
 **ReViiV  -  FAQ**
 
-![A picture containing text, clock
-
-Description automatically generated](Aspose.Words.2f2f8a19-8c47-4868-bc69-9dd5bfdccb78.001.png)
-
 **What is ReViiV?**
 
 ReViiV is a guided breathing therapy designed to relieve common Post-Covid or “Long Covid” symptoms by changing breathing patterns and gradually rehabilitate breathing quality.
