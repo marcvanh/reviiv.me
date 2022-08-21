@@ -47,7 +47,11 @@ features                                  :
     description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
     fontawesome_icon_name                 : chart-bar
 
-    title                                 : Based on Research & Trials by Long Covid Experts
+    title                                 : Track Your Progress, See the Improvement!
+    description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
+    fontawesome_icon_name                 : chart-bar
+
+  - title                                 : Based on Research & Trials by Long Covid Experts
     description                           : Special thanks to our test patients & the Post-Covid care team at Mt. Sinai Hospital for their leading Long Covid work.
     fontawesome_icon_name                 : microscope
 
@@ -60,16 +64,12 @@ features                                  :
     fontawesome_icon_name                 : briefcase-medical
 
   - title                                 : Limited Time, Intro Price!
-    description                           : ReViiV is over 60% off its regular price to celebrate its global launch!  Download now on iOS & Android.
+    description                           : ReViiV is over 65% off its regular price to celebrate its global launch!  Download now on iOS & Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : 10% of Proceeds Go to Long Covid Research!
     description                           : Help find a cure with 10% of proceeds going to support Long Covid research!
     fontawesome_icon_name                 : hand-holding-heart
-
-  - title                                 : Track Your Progress, See the Improvement!
-    description                           : 
-    fontawesome_icon_name                 : 
 
 
 # Theme Settings
