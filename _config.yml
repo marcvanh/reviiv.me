@@ -47,7 +47,7 @@ features                                  :
     description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
     fontawesome_icon_name                 : chart-bar
     
-  - title                                 : Auto-Intensity & Advanced Controls
+    title                                 : Auto-Intensity & Advanced Controls
     description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
     fontawesome_icon_name                 : calculator
 
