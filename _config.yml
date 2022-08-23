@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Created by a Long Covid Patient
-    description                           : May help with Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more.  Results often in days!
+    description                           : May help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more.  Results often in days!
     fontawesome_icon_name                 : user-md
 
   - title                                 : Includes Daily Guided Exercises & Weekly Tests
@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Based on Research & Trials by Long Covid Experts
-    description                           : Special thanks to our test patients & the Post-Covid care team at Mt. Sinai Hospital for their leading Post-Covid work.
+    description                           : Special thanks to our pilot test patients & the Post-Covid care team at Mt. Sinai Hospital for their leading Post-Covid work.
     fontawesome_icon_name                 : microscope
 
   - title                                 : Auto-Intensity & Advanced Controls
