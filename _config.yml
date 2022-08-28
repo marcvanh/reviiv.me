@@ -35,11 +35,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Created by a Long Covid Patient
-    description                           : May help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more.  Results often in days!
+  - title                                 : Results often in Days!
+    description                           : May help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more.  
     fontawesome_icon_name                 : user-md
 
-  - title                                 : Includes Daily Guided Exercises & Weekly Tests
+  - title                                 : Created by a Long Covid Patient
     description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & lung capacity.
     fontawesome_icon_name                 : calendar-week
 
@@ -70,6 +70,10 @@ features                                  :
   - title                                 : 10% of Proceeds Go to Long Covid Research!
     description                           : Help find a cure with 10% of proceeds going to support Long Covid research!
     fontawesome_icon_name                 : hand-holding-heart
+    
+  - title                                 : 5 Stars on Apple and Google!
+    description                           : "The Perfect Solution for My Long Covid!... Anyone who suffers from long Covid should get this app." 
+    fontawesome_icon_name                 : star-sharp
 
 
 # Theme Settings
