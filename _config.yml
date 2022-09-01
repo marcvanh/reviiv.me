@@ -52,14 +52,14 @@ features                                  :
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Based on Research & Trials by Long Covid Experts
-    description                           : Special thanks to our pilot test patients & the Post-Covid care team at Mt. Sinai Hospital for their leading Post-Covid work.
+    description                           : Special thanks to our test patients & the Post-Covid care team at Mt. Sinai Hospital for inspiring ReViiV.
     fontawesome_icon_name                 : microscope
 
   - title                                 : Auto-Intensity & Advanced Controls
     description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
     fontawesome_icon_name                 : calculator
 
-  - title                                 : Therapy Anywhere in Minutes a Day!
+  - title                                 : Works Anywhere in Minutes a Day!
     description                           : ReViiV is safe, 100% natural and can be done nearly anywhere in minutes a day using just your phone or tablet.
     fontawesome_icon_name                 : briefcase-medical
 
