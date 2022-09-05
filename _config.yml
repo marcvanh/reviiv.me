@@ -13,7 +13,7 @@ presskit_download_link                    : https://reviiv.me/assets/ReViiVPress
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "'Long Covid' Relief & Recovery!"
+app_description                           : "'Long Covid' Relief & Recovery - 5 Stars on Apple/Google!"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -47,12 +47,8 @@ features                                  :
     description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
     fontawesome_icon_name                 : chart-bar
 
-    title                                 : Track Your Progress, See the Improvement!
-    description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
-    fontawesome_icon_name                 : chart-bar
-
   - title                                 : Based on Research & Trials by Long Covid Experts
-    description                           : Special thanks to our test patients & the Post-Covid care team at Mt. Sinai Hospital for inspiring ReViiV.
+    description                           : ReViiV is based a breathworks technique first tested at Mt. Sinai Center for Post-Covid Care in 2021.
     fontawesome_icon_name                 : microscope
 
   - title                                 : Auto-Intensity & Advanced Controls
@@ -63,7 +59,7 @@ features                                  :
     description                           : ReViiV is safe, 100% natural and can be done nearly anywhere in minutes a day using just your phone or tablet.
     fontawesome_icon_name                 : briefcase-medical
 
-  - title                                 : Limited Time, Intro Price!
+  - title                                 : Available Globally for Ios/Android!
     description                           : ReViiV is over 65% off its regular price to celebrate its global launch!  Download now on iOS & Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
@@ -71,7 +67,7 @@ features                                  :
     description                           : Help find a cure with a portion of all proceeds going to support Long Covid research!
     fontawesome_icon_name                 : hand-holding-heart
 
-  - title                                 : 5 Stars on both Apple & Google!
+  - title                                 : All 5 Star reviews on Apple & Google!
     description                           : 'The Perfect Solution for My Long Covid!... Anyone who suffers from long Covid should get this App'
     fontawesome_icon_name                 : star
 
