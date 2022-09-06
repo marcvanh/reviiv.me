@@ -7,6 +7,17 @@
 	<title class="pageTitle">{{ site.page_title }}</title>
 	<meta name="description" content="{{ site.app_description }}">
 
+	<meta property="og:title" content="{{ site.page_title }}" />
+	<meta property="og:description" content="{{ site.app_description }}" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ page.url }}" />
+	<link rel="image_src" href="https://reviiv.me/assets/icon.jpg" />
+	<meta property="og:image" content="https://reviiv.me/assets/icon.jpg" />
+	<meta property="og:image:width" content="205" />
+	<meta property="og:image:height" content="205" />
+	<meta name="twitter:image" content="https://reviiv.me/assets/icon.jpg" />
+
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
 	<!-- Smart App Banner -->
