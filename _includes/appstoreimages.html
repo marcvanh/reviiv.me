@@ -58,6 +58,7 @@ $(function() {
             var $appStoreLink = $(".appStoreLink");
             if ($.trim($appStoreLink.attr('href')).length == 0) {
                 $($appStoreLink).attr("href", appInfo.trackViewUrl);
+                $($appStoreLink).attr("onclick", "return gtag_report_conversion('"+appInfo.trackViewUrl+"');");
             }
 
             console.info(appInfo);
