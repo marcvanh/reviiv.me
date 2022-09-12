@@ -13,7 +13,7 @@ presskit_download_link                    : https://reviiv.me/assets/ReViiVPress
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "'Long Covid' Relief & Recovery - 5 Stars on Apple/Google!"
+app_description                           : "Long Covid Breathing Therapy - Results in Days!"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Results often in 24Hrs!
+  - title                                 : Therapy for Rapid Long Covid Relief 
     description                           : May help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more. Results often begin in days!
     fontawesome_icon_name                 : user-md
 
@@ -59,7 +59,7 @@ features                                  :
     description                           : ReViiV is safe, 100% natural and can be done nearly anywhere in minutes a day using just your phone or tablet.
     fontawesome_icon_name                 : briefcase-medical
 
-  - title                                 : Just $0.99 for a Limited Time!
+  - title                                 : Limited Time Intro Price!
     description                           : ReViiV is over 65% off to celebrate its global launch!  Download now for iOS & Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
