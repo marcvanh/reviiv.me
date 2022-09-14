@@ -13,7 +13,7 @@ presskit_download_link                    : https://reviiv.me/assets/ReViiVPress
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Long Covid Breathing Therapy - Results in Days!"
+app_description                           : "Guided Therapy for Long Covid Relief - Results in Days!"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,11 +35,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Therapy for Rapid Long Covid Relief 
+  - title                                 : Created by a Long Covid Patient 
     description                           : May help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more. Results often begin in days!
     fontawesome_icon_name                 : user-md
 
-  - title                                 : Created by a Long Covid Patient
+  - title                                 : Guided Daily Breathing Exercises
     description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & lung capacity.
     fontawesome_icon_name                 : calendar-week
 
@@ -60,14 +60,14 @@ features                                  :
     fontawesome_icon_name                 : briefcase-medical
 
   - title                                 : Limited Time Intro Price!
-    description                           : ReViiV is over 65% off to celebrate its global launch!  Download now for iOS & Android.
+    description                           : ReViiV is 33% off for its global launch!  Download now for iOS & Android.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Supports Long Covid Research
     description                           : Help find a cure with a portion of all proceeds going to support Long Covid research!
     fontawesome_icon_name                 : hand-holding-heart
 
-  - title                                 : 5 Stars on Apple & Google!
+  - title                                 : No Subscription or Hidden Fees
     description                           : "'The Perfect Solution for My Long Covid!... Anyone who suffers from long Covid should get this App'"
     fontawesome_icon_name                 : star
 
