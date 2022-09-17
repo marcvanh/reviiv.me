@@ -13,7 +13,7 @@ presskit_download_link                    : https://reviiv.me/assets/ReViiVPress
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Long COVID Breathwork Therapy - Relief in Days!<br>Now Available Globally"
+app_description                           : "Long COVID Breathwork Therapy - Feel Better Tomorrow!<br>Now Available Globally"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,15 +35,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Created by a Long Covid Patient 
-    description                           : Can help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more. Results often in days!
+  - title                                 : Guided Daily Breathing Exercises 
+    description                           : Shown to alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more. Results often in 24hrs!
     fontawesome_icon_name                 : user-md
 
   - title                                 : Based on Research & Trials by Long Covid Experts
-    description                           : ReViiV is based on techniques used by free divers and successfully tested on Long Covid patients at Mt. Sinai Hospital.
+    description                           : ReViiV is based on techniques pioneered & tested on Long Covid patients at Mt. Sinai Center for Post-COVID Care.
     fontawesome_icon_name                 : microscope
 
-  - title                                 : Guided Daily Breathing Exercises
+  - title                                 : Created by a Long Covid Patient
     description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & lung capacity
     fontawesome_icon_name                 : calendar-week
     
