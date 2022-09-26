@@ -13,7 +13,7 @@ presskit_download_link                    : https://reviiv.me/assets/ReViiVPress
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Long-Covid Breathing Therapy - Relief often within 24hrs!<br>Fatigue, Loss of Taste/Smell, Brain Fog & More<br>"
+app_description                           : "Long-Covid Breathing Therapy - Relief often in 24hrs!<br>Treats fatigue, loss of taste/smell, brain fog & more<br>"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -43,7 +43,7 @@ features                                  :
     description                           : ReViiV is based on techniques pioneered & tested on Long Covid patients at Mt. Sinai Center for Post-COVID Care.
     fontawesome_icon_name                 : microscope
 
-  - title                                 : 16 Week Long Covid Breathwork Therapy
+  - title                                 : Complete Guided Breathwork Program
     description                           : ReViiV includes 16 stages of guided daily beathing to steadily improve your breathing quality & lung capacity
     fontawesome_icon_name                 : calendar-week
     
