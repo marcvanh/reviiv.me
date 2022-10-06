@@ -35,18 +35,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Created by a Long-Covid Patient 
+  - title                                 : Created by a Long-Covid Patient
     description                           : Can help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more. Results often in 24hrs!
     fontawesome_icon_name                 : user-md
 
   - title                                 : Based on Scientific Research & Trials by Long Covid Experts
-    description                           : ReViiV is based on techniques tested with Long Covid patients at Mt. Sinai Center for Post-COVID Care. 
+    description                           : ReViiV is based on techniques tested with Long Covid patients at Mt. Sinai Center for Post-COVID Care. <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">LINK</a>
     fontawesome_icon_name                 : microscope
 
   - title                                 : Daily Guided Breathwork Program
     description                           : ReViiV includes 16 weeks of guided daily beathing to steadily improve your breathing quality & lung capacity
     fontawesome_icon_name                 : calendar-week
-    
+
   - title                                 : Progress Tests to See Your Improvement!
     description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
     fontawesome_icon_name                 : chart-bar
