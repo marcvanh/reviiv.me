@@ -35,20 +35,20 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Created by a Long-Covid Patient
-    description                           : Can help alleviate Fatigue, Loss of Taste & Smell, Brain Fog, Shortness of Breath & more. Results often in 24hrs!
+  - title                                 : Results often within 24 Hours!
+    description                           : Can alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more.  (See:  Why ReViiV works)
     fontawesome_icon_name                 : user-md
 
-  - title                                 : Based on Scientific Research & Trials by Long Covid Experts
-    description                           : ReViiV is based on techniques tested with Long Covid patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
+  - title                                 : Effective with 100% of Test Patients 
+    description                           : At Mt. Sinai Center for Post-Covid Care, “everyone in the pilot program reported improvement in symptoms”
     fontawesome_icon_name                 : microscope
 
-  - title                                 : Daily Guided Breathwork Program
-    description                           : ReViiV includes 16 weeks of guided daily beathing to steadily improve your breathing quality & lung capacity
+  - title                                 : Fast Tracked by the FDA!
+    description                           : The FDA has said the therapy is effective for Long Covid and said they will not require approval.
     fontawesome_icon_name                 : calendar-week
 
-  - title                                 : Progress Tests to See Your Improvement!
-    description                           : ReViiV includes weekly progress tests and graphs to measure your progress.
+  - title                                 : Based on Leading Long Covid Research & Trials
+    description                           : ReViiV is based on techniques tested with Long Covid patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Auto-Intensity & Advanced Controls
