@@ -36,10 +36,10 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Results often within 24 Hours!
-    description                           : Can alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more.  (See:  Why ReViiV works)
+    description                           : "Can alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more. (See: Why ReViiV works)"
     fontawesome_icon_name                 : user-md
 
-  - title                                 : Effective with 100% of Test Patients 
+  - title                                 : Effective with 100% of Test Patients
     description                           : At Mt. Sinai Center for Post-Covid Care, “everyone in the pilot program reported improvement in symptoms”
     fontawesome_icon_name                 : microscope
 
