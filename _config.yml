@@ -39,7 +39,7 @@ features                                  :
     description                           : "Can alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more. (See: <a href=\"/howitworks/\">Why ReViiV works</a>)"
     fontawesome_icon_name                 : user-md
 
-  - title                                 : Effective with 100% of Test Patients
+  - title                                 : Effective with 100% of Pilot Test Patients
     description                           : At Mt. Sinai Center for Post-Covid Care, “everyone in the pilot program reported improvement in symptoms”
     fontawesome_icon_name                 : microscope
 
@@ -51,24 +51,24 @@ features                                  :
     description                           : ReViiV is based on techniques tested with Long Covid patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : Auto-Intensity & Advanced Controls
+  - title                                 : Expand Your Lung Capacity
     description                           : ReViiV automatically adjusts exercise intensity to match your breathing level and progress.
     fontawesome_icon_name                 : calculator
 
   - title                                 : Works Anywhere in Minutes a Day!
-    description                           : ReViiV is safe, 100% natural and can be done anywhere in minutes a day using just your phone or tablet.
+    description                           : Includes 16 stages of guided daily beathing to steadily improve your breathing quality & lung capacity.
     fontawesome_icon_name                 : briefcase-medical
 
-  - title                                 : Limited Time Introductory Price
-    description                           : ReViiV is discounted now for a limited time!  Download today on iOS & Android.
+  - title                                 : Track Your Progress & see the Imrovement!
+    description                           : Includes weekly tests and graphs to measure and view your progress.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Support Long Covid Research
+  - title                                 : Supports   Long Covid Research
     description                           : Help find a cure with 10% of all proceeds from ReViiV going to support Long Covid research!
     fontawesome_icon_name                 : hand-holding-heart
 
-  - title                                 : Includes Everytihng You Need
-    description                           : ReViiV includes everything you need for the 16-week therapy and no subscription or hardware is required.
+  - title                                 : Created by a Long Covid Patient
+    description                           : ReViiV includes everything you need for the therapy and no hardware or subscription is required.
     fontawesome_icon_name                 : star
 
 
