@@ -35,17 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Results often within 24 Hours!
-    description                           : "Can alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more. (See: <a href=\"/howitworks/\">Why ReViiV works</a>)"
+  - title                                 : Fast Tracked by the FDA!
+    description                           : The <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">FDA</a> has affirmed that the therapy is effective for treating Long Covid and will not require approval.
     fontawesome_icon_name                 : user-md
 
-  - title                                 : Effective with 100% of Pilot Test Patients
+  - title                                 : Results often within 24 Hours!
+    description                           : "Can alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more. (See: <a href=\"/howitworks/\">How ReViiV works</a>)"
+    fontawesome_icon_name                 : calendar-week
+
+  - title                                 : Effective with 100% of Test Patients
     description                           : At the <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>, “everyone in the pilot reported improvement in symptoms”.
     fontawesome_icon_name                 : microscope
-
-  - title                                 : Fast Tracked by the FDA!
-    description                           : The <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">FDA</a> has said the breathwork therapy is effective for Long Covid and they will not require approval.
-    fontawesome_icon_name                 : calendar-week
 
   - title                                 : Based on Leading Long Covid Research & Trials
     description                           : ReViiV is based on techniques tested with Long Covid patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
