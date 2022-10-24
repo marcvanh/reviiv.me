@@ -40,7 +40,8 @@ features                                  :
     fontawesome_icon_name                 : user-md
 
   - title                                 : Effective with 100% of Pilot Test Patients
-    description                           : At Mt. Sinai Center for Post-Covid Care, “everyone in the pilot program reported improvement in symptoms”
+    description                           : At <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
+, “everyone in the pilot program reported improvement in symptoms”
     fontawesome_icon_name                 : microscope
 
   - title                                 : Fast Tracked by the FDA!
