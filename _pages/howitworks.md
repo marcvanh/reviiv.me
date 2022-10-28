@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How ReViiV works
+title: Why does ReViiV work?
 include_in_header: true
 ---
 
