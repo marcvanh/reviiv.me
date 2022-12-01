@@ -69,6 +69,7 @@
     <script>
         // based on code found at:
         // https://stackoverflow.com/questions/55695667/adsense-injecting-style-tag-into-my-page-in-chrome
+        // and https://weblog.west-wind.com/posts/2020/May/25/Fixing-Adsense-Injecting-height-auto-important-into-scrolled-Containers
         var flex = document.getElementsByClassName('imageWrapper')[0];
         const observer = new MutationObserver(function (mutations, observer) {
             flex.style.height = "714px";
@@ -87,17 +88,5 @@
         });
     </script>
 
-<!--    <div style="position: relative; width: 100%; max-width: 100%;">-->
-<!--        <ins class="adsbygoogle"-->
-<!--             style="display:block; position: absolute; width: inherit; max-width: inherit;"-->
-<!--             data-ad-client="ca-pub-client-here"-->
-<!--             data-ad-slot="ad-slot-here"-->
-<!--             data-ad-format="auto"></ins>-->
-<!--        <script>-->
-<!--            document.addEventListener('DOMContentLoaded', (e) => {-->
-<!--                (adsbygoogle = window.adsbygoogle || []).push({});-->
-<!--            }, false)-->
-<!--        </script>-->
-<!--    </div>-->
 </body>
 </html>
