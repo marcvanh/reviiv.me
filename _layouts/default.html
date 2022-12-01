@@ -4,8 +4,8 @@
 {% include head.html %}
 
 <body>
-    <div class="imageWrapper" style="height: 714px !important;">
-            <div class="headerBackground" style="height: 115px !important;">
+    <div class="imageWrapper">
+            <div class="headerBackground">
                 <div class="container">
                     {% include header.html %}
                     <div class="iphonePreview">
@@ -64,17 +64,40 @@
             </div>
         </div>
 
-    <div style="position: relative; width: 100%; max-width: 100%;">
-        <ins class="adsbygoogle"
-             style="display:block; position: absolute; width: inherit; max-width: inherit;"
-             data-ad-client="ca-pub-client-here"
-             data-ad-slot="ad-slot-here"
-             data-ad-format="auto"></ins>
-        <script>
-            document.addEventListener('DOMContentLoaded', (e) => {
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            }, false)
-        </script>
-    </div>
+    <!-- adsense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4701067082338622" crossorigin="anonymous"></script>
+    <script>
+        // based on code found at:
+        // https://stackoverflow.com/questions/55695667/adsense-injecting-style-tag-into-my-page-in-chrome
+        var flex = document.getElementsByClassName('imageWrapper')[0];
+        const observer = new MutationObserver(function (mutations, observer) {
+            flex.style.height = "714px";
+        });
+        observer.observe(flex, {
+            attributes: true,
+            attributeFilter: ['style']
+        });
+        var flex2 = document.getElementsByClassName('headerBackground')[0];
+        const observer2 = new MutationObserver(function (mutations, observer) {
+            flex2.style.height = "115px";
+        });
+        observer2.observe(flex2, {
+            attributes: true,
+            attributeFilter: ['style']
+        });
+    </script>
+
+<!--    <div style="position: relative; width: 100%; max-width: 100%;">-->
+<!--        <ins class="adsbygoogle"-->
+<!--             style="display:block; position: absolute; width: inherit; max-width: inherit;"-->
+<!--             data-ad-client="ca-pub-client-here"-->
+<!--             data-ad-slot="ad-slot-here"-->
+<!--             data-ad-format="auto"></ins>-->
+<!--        <script>-->
+<!--            document.addEventListener('DOMContentLoaded', (e) => {-->
+<!--                (adsbygoogle = window.adsbygoogle || []).push({});-->
+<!--            }, false)-->
+<!--        </script>-->
+<!--    </div>-->
 </body>
 </html>
