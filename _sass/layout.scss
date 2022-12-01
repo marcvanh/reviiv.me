@@ -1,4 +1,4 @@
-.imageWrapper123 {					// Sets the background image in the header area
+.imageWrapper {					// Sets the background image in the header area
 	height: 714px;
 	background: 
 		linear-gradient(
@@ -15,14 +15,14 @@
 
 }
 
-.headerBackground123 {
+.headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
 }
 
 @media only screen and (max-width: 768px) {
 
-	.headerBackground123 {
+	.headerBackground {
 		height: 80px;
 	}
 
