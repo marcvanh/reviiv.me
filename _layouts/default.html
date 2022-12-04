@@ -64,6 +64,29 @@
             </div>
         </div>
 
+    <!-- adsense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4701067082338622" crossorigin="anonymous"></script>
+    <script>
+        // based on code found at:
+        // https://stackoverflow.com/questions/55695667/adsense-injecting-style-tag-into-my-page-in-chrome
+        // and https://weblog.west-wind.com/posts/2020/May/25/Fixing-Adsense-Injecting-height-auto-important-into-scrolled-Containers
+        var flex = document.getElementsByClassName('imageWrapper')[0];
+        const observer = new MutationObserver(function (mutations, observer) {
+            flex.style.height = "714px";
+        });
+        observer.observe(flex, {
+            attributes: true,
+            attributeFilter: ['style']
+        });
+        var flex2 = document.getElementsByClassName('headerBackground')[0];
+        const observer2 = new MutationObserver(function (mutations, observer) {
+            flex2.style.height = "115px";
+        });
+        observer2.observe(flex2, {
+            attributes: true,
+            attributeFilter: ['style']
+        });
+    </script>
 
 </body>
 </html>
