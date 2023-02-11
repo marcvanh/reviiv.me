@@ -1,8 +1,10 @@
 ﻿---
 layout: page
 title: How
-include_in_header: true
+include_in_header: false
 ---
+
+<h2 align="center"> Why Does ReViiV Work? </h2>
 
 **Why Does ReViiV Work?  The Science Behind ReViiV**
 
@@ -21,6 +23,3 @@ The brain fog and fatigue symptoms that are common in Long Covid patients may al
 Another symptom that is common among Long Covid patients is loss of taste and smell. Research has shown that there is a connection between the sense of smell and the respiratory system, and that poor breathing quality can disrupt the proper functioning of the olfactory system. By improving breathing quality, the ReViiV app's exercises may help to improve the sense of smell and taste.
 
 Additionally, Shortness of breath is also a common symptom in Long Covid patients, and it is believed to be related to the chronic imbalance of CO2 and oxygen in the body. By improving breathing quality and correcting this imbalance, the ReViiV app's exercises may help to reduce shortness of breath
-
-
-
