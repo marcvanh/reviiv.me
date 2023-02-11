@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: Why does ReViiV work? New
-include_in_header: false
+title: New
+include_in_header: true
 ---
 
 **Why Does ReViiV Work?  The Science Behind ReViiV**
