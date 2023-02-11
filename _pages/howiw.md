@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: New
+title: How
 include_in_header: true
 ---
 
