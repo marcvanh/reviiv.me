@@ -4,37 +4,22 @@ title: Why does ReViiV work?
 include_in_header: true
 ---
 
-<h2 align="center"> Why Does ReViiV Work? </h2>
+**Why Does ReViiV Work?  The Science Behind ReViiV**
 
-Co-developed with Long Covid patients, doctors and breathing experts, ReViiV can alleviate many LC symptoms, often in as soon as 24 hours.  The following is a hypothesis of why ReViiV is so effective at treating LC symptoms.
+The scientific hypothesis behind the ReViiV app and its daily breathing exercises is that they can help alleviate Long Covid symptoms by addressing the underlying causes of the condition, which are not yet fully understood. It is believed that Long Covid symptoms are caused by a chronic imbalance of CO2 and oxygen in the body, which can be caused by poor breathing quality. The daily breathing exercises included in the app are designed to improve breathing quality and correct this imbalance, which in turn can help alleviate Long Covid symptoms.
 
-<h3 align="center"> ReViiV is based on groundbreaking<br>Long Covid research & trials </h3>
+One of the key components of ReViiV's daily breathing exercises is the use of the nose. Nose breathing has been shown to have several benefits for respiratory function, including increasing the amount of oxygen taken in and decreasing the amount of CO2 exhaled. By practicing nose breathing exercises daily, users of the app may be able to improve their breathing quality and correct the chronic imbalance of CO2 and oxygen in their bodies.
 
-Long Covid researchers have found that COVID-19 can impact the auto-immune system and reduce breathing quality, leading to ongoing [improper levels of CO2](https://www.theatlantic.com/newsletters/archive/2021/03/atlantic-daily-understanding-long-covid/618232/) and [O2](https://www.frontiersin.org/articles/10.3389/fcimb.2022.861703/full) in the body.  Researchers have also found ongoing [blockages in the small capillaries of the upper lungs](https://doi.org/10.1148/radiol.220492) of LC patients, further impairing breathing quality and compounding issues.
+Another important aspect of ReViiV's daily breathing exercises is the focus on diaphragmatic breathing. Diaphragmatic breathing is a type of breathing that emphasizes the use of the diaphragm, a muscle located at the base of the lungs. When the diaphragm contracts, it expands the lungs and increases the volume of air that can be inhaled. By training the body to use the diaphragm more effectively, ReViiV's daily exercises may help to improve overall lung function, including the ability to effectively exchange CO2 and Oxygen.
 
-<h3 align="center"> Long Covid patients tend to breathe shallow,<br>through their mouths, leading to many chronic issues </h3>
+It's also important to mention that ReViiV's daily breathing exercises are designed to be progressive. As the user's progress is monitored through weekly progress tests, the app automatically adjusts the intensity of the exercises to match the user's progress. This gradual progression allows the body to adapt to the new breathing patterns, making it more likely that the changes will be sustained over time.
 
-**ReViiV uses a custom breathing therapy designed to address these underlying issues in three ways:**  
+The weekly progress tests included in ReViiV also play a crucial role in the hypothesis. These tests allow users to track their progress and monitor the effectiveness of the breathing exercises. This can help to identify any areas that need improvement and make adjustments to the exercises accordingly, ensuring maximum effectiveness.
 
-1. First, by radically altering breathing patterns, ReViiV can rapidly improve CO2 & O2 levels in the body for immediate relief.
-1. Second, by using a 16-week, guided daily breathing program, ReViiV can gradually rebuild lost lung capacity.  
-1. Third, by using nasal breathing to warm the air & funnel it to the lower, healthier lungs, ReViiV can [improve airflow to arteries, veins & nerves](https://www.healthline.com/health/nose-breathing#:~:text=Nose%20breathing%20is%20more%20beneficial,bad%20breath%20and%20gum%20inflammation.) and [extract more oxygen](https://www.drgalante.com/sleep-apnea/benefits-breathing-through-nose/) from each breath.  
+The brain fog and fatigue symptoms that are common in Long Covid patients may also be related to this chronic imbalance of CO2 and oxygen in the body. The brain requires a constant supply of oxygen to function properly, and an imbalance in the levels of CO2 and oxygen can disrupt this process. By improving breathing quality and correcting the imbalance, ReViiV's breathing exercises may help to improve brain function and reduce brain fog and fatigue.
 
-<h3 align="center"> Rapidly correcting C02/O2 levels while gradually<br>improving breathing quality is the foundation of ReViiV </h3>
+Another symptom that is common among Long Covid patients is loss of taste and smell. Research has shown that there is a connection between the sense of smell and the respiratory system, and that poor breathing quality can disrupt the proper functioning of the olfactory system. By improving breathing quality, the ReViiV app's exercises may help to improve the sense of smell and taste.
 
-The therapy behind ReViiV was first [tested on LC patients at Mt. Sinai Center for Post Covid Care in 2021, ](https://www.theatlantic.com/newsletters/archive/2021/03/atlantic-daily-understanding-long-covid/618232/)where after a week, “everyone in the pilot program reported improvement in symptoms”.  The ReViiV team had also similar success in internal pilot testing with LC patients in 2022 and [the FDA has said they have “fast tracked” the therapy](https://www.theatlantic.com/newsletters/archive/2021/03/atlantic-daily-understanding-long-covid/618232/) given its efficacy for treating LC.  
+Additionally, Shortness of breath is also a common symptom in Long Covid patients, and it is believed to be related to the chronic imbalance of CO2 and oxygen in the body. By improving breathing quality and correcting this imbalance, the ReViiV app's exercises may help to reduce shortness of breath
 
-<h3 align="center"> “Everyone in the pilot program reported improvement in<br>symptoms” - Mt Sinai Center for Post Covid Care </h3>
-
-In addition to relieving LC symptoms, by using focusing on nasal breathing, ReViiV has [many additional health benefits, including:  ](https://www.healthline.com/health/nose-breathing#:~:text=Nose%20breathing%20is%20more%20beneficial,bad%20breath%20and%20gum%20inflammation.) 
-
-- Increasing oxygen uptake and circulation
-- Lowering your risk of allergies by filtering dust, allergens & pollen
-- Reducing bad breath, tooth decay and gum disease
-- Strengthening your diaphragm
-- Reducing coughing and snoring
-
-<h3 align="center"> The FDA has “Fast Tracked” the therapy for treating Long Covid </h3>
-
-ReViiV is now available globally - Download Today & Feel better Tomorrow!
 
