@@ -35,18 +35,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Aids Many Long COVID Syptoms
-    description                           : "Aids Fatigue, Taste/Smell Loss, Brain Fog, Short Breath, Joint Pain & more. (See: <a href=\"/howitworks/\">How ReViiV works</a>)"
+  - title                                 : Immediate Symptom Relief
+    description                           : "Experience fast relief, often within 24 hours"
+    fontawesome_icon_name                 : user-md
+
+  - title                                 : Extensive Symptom Support
+    description                           : Aids with fatigue, muscle/joint pain, taste/smell loss, brain fog & more.
     fontawesome_icon_name                 : user-md
 
   - title                                 : Fast Tracked by the FDA!
     description                           : The <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">FDA has indicated</a> the therapy is effective for treating Long Covid and will not require approval.
     fontawesome_icon_name                 : user-md
-
-  - title                                 : Tested Succesfully at Mt Sinai Hospital
-    description                           : At the <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>, “everyone in the pilot reported improvement in symptoms”.
-    fontawesome_icon_name                 : microscope
-
+    
   - title                                 : Based on <a href=" https://reviiv.me/howitworks/ " target="_blank"> Science & Leading Research & Trials </a>
     description                           : ReViiV is based on techniques tested with Long Covid patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
     fontawesome_icon_name                 : chart-bar
