@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Immediate Symptom Relief
-    description                           : "Experience fast relief, often within 24 hours"
+    description                           : "Experience fast relief, often starting within 24 hours"
     fontawesome_icon_name                 : user-md
 
   - title                                 : Extensive Symptom Support
@@ -47,28 +47,28 @@ features                                  :
     description                           : The <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">FDA has indicated</a> the therapy is effective for treating Long Covid and will not require approval.
     fontawesome_icon_name                 : user-md
     
-  - title                                 : Based on <a href=" https://reviiv.me/howitworks/ " target="_blank"> Science & Leading Research & Trials </a>
-    description                           : ReViiV is based on techniques tested with Long Covid patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
+  - title                                 : Backed by Science & Trials
+    description                           : Based on techniques tested at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : Restores CO2/O2 Levels & Lung Capacity
-    description                           : ReViiV is designed to quickly restore CO2/O2 levels which have been impacted by Covid-19.
+  - title                                 : Personalized Progressive Exercises
+    description                           : Progress through 16 stages, tailored to your fitness level, for ongoing recovery.
     fontawesome_icon_name                 : calculator
 
-  - title                                 : Results often in 24 Hours!
-    description                           : Begins to work immediately with 16 stages of guided beathing to steadily improve breathing quality.
+  - title                                 : Created by a Long COVID Patient
+    description                           : Co-designed with firsthand Long COVID experience and understanding.
     fontawesome_icon_name                 : briefcase-medical
 
-  - title                                 : Track Your Progress & See the Imrovement!
-    description                           : Includes weekly tests & graphs to measure and view your progress.
+  - title                                 : Accessible & Safe
+    description                           : Benefit from a non-invasive, do-anywhere solution with clear guides and visual aids.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Supports Long Covid Research
-    description                           : Help find a cure with a portion of all proceeds from ReViiV going to support Long Covid research.
+  - title                                 : See The Results
+    description                           : Track your improvement with weekly assessments and performance graphs.
     fontawesome_icon_name                 : hand-holding-heart
 
-  - title                                 : Works Anywhere in Minutes a Day!
-    description                           : ReViiV is safe, 100% natural and includes everything you need to perform the therapy.
+  - title                                 : Now Available Globally
+    description                           : Download ReViiV Free on any iOS & Android device worldwide.
     fontawesome_icon_name                 : star
 
 
