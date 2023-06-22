@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Immediate Symptom Relief
     description                           : "Harness 8 powerful techniqes for rapid relief, often starting within 24 hours"
-    fontawesome_icon_name                 : user-md
+    fontawesome_icon_name                 : briefcase-medical
 
   - title                                 : Extensive Symptom Support
     description                           : Aids with fatigue, muscle/joint pain, taste/smell loss, brain fog & more.
@@ -57,8 +57,8 @@ features                                  :
 
   - title                                 : Created by a Long COVID Patient
     description                           : Co-designed with firsthand Long COVID experience and understanding.
-    fontawesome_icon_name                 : briefcase-medical
-
+    fontawesome_icon_name                 : hand-holding-heart
+    
   - title                                 : Accessible & Safe
     description                           : Benefit from a non-invasive, do-anywhere solution with clear guides and visual aids.
     fontawesome_icon_name                 : arrow-alt-circle-down
