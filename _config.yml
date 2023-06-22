@@ -13,7 +13,7 @@ presskit_download_link                    : https://reviiv.me/assets/ReViiVPress
 app_icon                                  : assets/icon.jpg                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ReViiV                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Experience Long COVID Relief with ReViiV!<br><br>Harness 8 powerful techniques with 5-minute guided daily exercises for fast relief & ongoing, steady recovery."
+app_description                           : "Experience Long COVID Relief Now with ReViiV!<br><br>Harness 8 powerful techniques with 5-minute guided daily exercises for fast relief & ongoing, steady recovery."
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,9 +35,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Created by a Long Covid Patient
-    description                           : "Can help alleviate Fatigue, Loss of Taste/Smell, Brain Fog, Short Breath & more. (See: <a href=\"/howitworks/\">How ReViiV works</a>)"
-    fontawesome_icon_name                 : calendar-week
+  - title                                 : Aids Many Long COVID Syptoms
+    description                           : "Aids Fatigue, Taste/Smell Loss, Brain Fog, Short Breath, Joint Pain & more. (See: <a href=\"/howitworks/\">How ReViiV works</a>)"
+    fontawesome_icon_name                 : user-md
 
   - title                                 : Fast Tracked by the FDA!
     description                           : The <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">FDA has indicated</a> the therapy is effective for treating Long Covid and will not require approval.
