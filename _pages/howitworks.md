@@ -45,4 +45,4 @@ ReViiV uses a scientifically grounded approach that has shown significant promis
 
 **Download ReViiV for Free Now!**
 
-Experience rapid relief and effective management of your Long COVID symptoms with ReViiV, available globally on all iOS & Android devices. Take control of your Long COVID recovery – Download ReViiV for free now!
+Experience rapid relief and effective management of your Long COVID symptoms with ReViiV, available globally on all <a href="https://apps.apple.com/us/app/reviiv/id1557588292" target="_blank">iOS</a> & <a href="https://play.google.com/store/apps/details?id=com.martysoft.breather" target="_blank">Android</a> devices. Take control of your Long COVID recovery – Download ReViiV for free now!
