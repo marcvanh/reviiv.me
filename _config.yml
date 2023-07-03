@@ -35,12 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Immediate Symptom Relief
-    description                           : "Harness 8 powerful techniqes for rapid relief, often starting within 24 hours. (See: <a href=\"/howitworks/\">How ReViiV works</a>)"
+  - title                                 : Immediate Symptom Relief!
+    description                           : "Harness 8 scientfically backed techniqes for rapid relief, often starting within 24 hours. (See: <a href=\"/howitworks/\">How ReViiV works</a>)"
     fontawesome_icon_name                 : briefcase-medical
 
   - title                                 : Extensive Symptom Support
-    description                           : Aids with fatigue, muscle/joint pain, taste/smell loss, brain fog & more.
+    description                           : Aids with fatigue, muscle/joint pain, taste/smell loss, brain fog, breathlessness, insomnia & more.
     fontawesome_icon_name                 : user-md
 
   - title                                 : Fast Tracked by the FDA!
@@ -51,19 +51,19 @@ features                                  :
     description                           : Based on techniques tested on Long COVID patients at <a href="https://www.theatlantic.com/magazine/archive/2021/04/unlocking-the-mysteries-of-long-covid/618076/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20210308&silverid-ref=NDQ1Mzc4MzU1NDgxS0" target="_blank">Mt. Sinai Center for Post-COVID Care</a>.
     fontawesome_icon_name                 : chart-bar
 
-  - title                                 : Personalized Progressive Exercises
-    description                           : Progress through 16 stages, tailored to your fitness level, for ongoing recovery.
+  - title                                 : Personalized & Progressive Exercises
+    description                           : Progress through 16 stages, tailored to your fitness level, for steady, ongoing improvement.
     fontawesome_icon_name                 : calculator
 
   - title                                 : Created by a Long COVID Patient
-    description                           : Co-designed with firsthand Long COVID experience and understanding.
+    description                           : Co-created by a Long-Hauler through leading post-viral research and trials.
     fontawesome_icon_name                 : hand-holding-heart
     
   - title                                 : Accessible & Safe
-    description                           : Benefit from a non-invasive, do-anywhere solution with clear guides and visual aids.
+    description                           : Safe, 100% natural therapy, requiring just minutes a day with clear guides and visual aids.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : See The Results
+  - title                                 : See The Results!
     description                           : Track your improvement with weekly assessments and performance graphs.
     fontawesome_icon_name                 : hand-holding-heart
 
